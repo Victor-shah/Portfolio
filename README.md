@@ -64,6 +64,34 @@ The Phases involved in this process are:
 
 * Lastly performing the Univariate, Segmented Univariate, and Bivariate Analysis to gain factors driving for loan default.
 
+# 07 Analyzing the impact of Car Features on price and profitability
+* We were able to find out the popularity of a car model varying across different market categories.
+
+* To find out the relationship between the car’s engine power and its price.
+
+* Which car features are most important in determining a car’s price?
+
+* How the average price of a car vary across different manufacturers?
+
+* What is the relationship between fuel efficiency and the number of cylinders in a car’s engine?
+
+* Which car brands have the highest and lowest average MSRP, and how does this vary by body style?
+
+* How does the distribution of car prices vary by brand and body style?
+
+# 08 ABC Call Volume Trend Analysis
+* To determine the average duration of all incoming calls received by agents. And this had to be calculated for each time bucket.
+
+* Visualizing the total number of calls received. 
+
+* Propose a plan for manpower allocation during each time bucket (from 9 am to 9pm) to reduce the abandon rate to 10%. This means we had to calculate the minimum number of agents required in each time bucket to ensure atleast 90 out of 100 calls are answered.
+
+* Night Shift Manpower planning. We had to figure out the number of agents required at night. Because the customers do not get an answer as there are no agents available. This creates a poor customer experience.
+
+
+
+
+
 
 
 
